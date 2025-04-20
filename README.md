@@ -29,7 +29,7 @@ Protected Routes:
 
 - Express.js
 
-- MongoDB + Mongoose
+- MongoDB + Mongoose  
 
 - JWT or custom token-based authentication
 
