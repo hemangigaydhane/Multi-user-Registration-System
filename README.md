@@ -35,4 +35,19 @@ Protected Routes:
 
 - dotenv for environment variable management
 
+## API Endpoints 
+Authentication 
+- /api/auth/register
+- /api/auth/login
+
+Farmer Managemnent
+- /api/farmers
+- /api/farmers
+
+SCP dashboard
+- /api/scp/dashboard
+
+
+
+
 

@@ -25,7 +25,8 @@ export const registerSCP = async (req, res) => {
       name,
       email,
       password,
-      phone
+      phone,
+      role: "scp"
     });
 
     if (scp) {
